@@ -1,8 +1,9 @@
-import random
-from configuration import *
+import pandas as pd
+
+from generator import Product
+from configuration import ITEMS_TO_GEN
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(random.choice(FEATURES_DICT[FEATURES[1]]))
+    pass
 
