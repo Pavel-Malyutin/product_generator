@@ -1,6 +1,4 @@
-import pandas as pd
-
-from configuration import *
+from configuration_smartphones import *
 import random
 import string
 import shutil
@@ -24,9 +22,8 @@ def rand_gen(len_to_gen):
 class Product:
     def __init__(self):
         self.slug = str(f'{rand_gen(15)}').lower()
-        # shutil.copy(random.choice(PHOTOS), f'output/{self.slug}.jpg')
-        self.features = {'Категория': str(random.choice(CATEGORIES)).capitalize(),
-                         'Имя': f'{str(random.choice(NAMES)).capitalize()}' + '-' + f'{rand_gen(4)}',
+        shutil.copy(random.choice(PHOTOS), f'output/{self.slug}.jpg')
+        self.features = {'Имя': f'{str(random.choice(NAMES)).capitalize()}' + '-' + f'{rand_gen(4)}',
                          'Slug': f'{self.slug}',
                          'Image': f'{self.slug}.jpg',
                          'Описание': DESCRIPTION,
@@ -35,4 +32,4 @@ class Product:
                          }
         for feature in FEATURES:
             self.features[feature] = random.choice(FEATURES_DICT[feature])
-
+        self.features['category_id'] = CATEGORY

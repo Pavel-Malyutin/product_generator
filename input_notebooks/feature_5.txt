@@ -1,9 +1,16 @@
-пять камер
-четыре камеры
-тройная камера
-двойная камера
-5 Мп
-8 Мп
-12 Мп
-13 Мп
-48 Мп
+NVIDIA GeForce RTX 2060 (6 Гб)
+NVIDIA GeForce RTX 2060 Max-Q (6 Гб)
+NVIDIA GeForce RTX 2070 (6 Гб)
+NVIDIA GeForce RTX 2070 (8 Гб)
+NVIDIA GeForce RTX 2070 Max-Q (8 Гб)
+NVIDIA GeForce RTX 2070 SUPER (8 Гб)
+NVIDIA GeForce RTX 2070 SUPER Max-Q (8 Гб)
+NVIDIA GeForce RTX 2080 (8 Гб)
+NVIDIA GeForce RTX 2080 SUPER (8 Гб)
+NVIDIA GeForce RTX 2080 SUPER Max-Q (8 Гб)
+NVIDIA GeForce RTX 3050 Ti для ноутбуков (4 Гб)
+NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб)
+NVIDIA GeForce RTX 3060 (6 Гб)
+NVIDIA GeForce RTX 3060 для ноутбуков (6 Гб)
+NVIDIA GeForce RTX 3080 для ноутбуков (8 Гб)
+NVIDIA Quadro RTX 5000 (16 Гб)

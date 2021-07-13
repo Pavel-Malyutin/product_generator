@@ -1,4 +1,13 @@
-от 6 дюймов и выше
-от 5.5 до 5.9 дюймов
-от 5 до 5.4 дюймов
-от 4.1 до 4.9 дюймов
+AMD Ryzen 3
+AMD Ryzen 3 Pro
+AMD Ryzen 5
+AMD Ryzen 5 Pro
+AMD Ryzen 7
+AMD Ryzen 7 Pro
+AMD Ryzen 9
+Apple M1
+Intel Core i3
+Intel Core i5
+Intel Core i7
+Intel Core i7 Extreme Edition
+Intel Core i9

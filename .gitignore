@@ -3,4 +3,6 @@
 /virt/
 /input_smartphones/images/
 /output/
-/used_slugs.csv
+/out.csv
+/input_notebooks/images/
+/db.sqlite3
